@@ -10,6 +10,7 @@ I. [Common Instructions](#chapter-i-common-instructions)
 II. [Project Instructions](#chapter-ii-project-instructions)  
 III. [Mandatory Part](#chapter-iii-mandatory-part)  
 IV. [Bonus Part](#chapter-iv-bonus-part)  
+V. [MyNotion](#mynotion)
 
 ## Chapter I: Common Instructions
 
@@ -45,5 +46,7 @@ You must create a communication program in the form of a client and a server.
 - The server acknowledges every message received by sending back a signal to the client.
 - Unicode characters support.
 
+## MyNotion V:
 
+[visit MyNotion](https://www.notion.so/MINITALK-4e3ac739d0884a379b348edfe699d667?pvs=4) Maybe there would be some bad words while i was explaining to my self XD btw it's written in Darija of Morocco Not in English
 
