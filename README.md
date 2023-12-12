@@ -48,5 +48,5 @@ You must create a communication program in the form of a client and a server.
 
 ## MyNotion V:
 
-[visit MyNotion](https://www.notion.so/MINITALK-4e3ac739d0884a379b348edfe699d667?pvs=4) Maybe there would be some bad words while i was explaining to my self XD btw it's written in Darija of Morocco Not in English
+[Visit My Notion](https://www.notion.so/MINITALK-4e3ac739d0884a379b348edfe699d667?pvs=4) Maybe there would be some bad words while i was explaining to my self XD btw it's written in Darija of Morocco Not in English
 
